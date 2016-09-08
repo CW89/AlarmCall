@@ -40,6 +40,7 @@ public class CallResultActivity extends Activity {
 
 
 
+
 		getRingerMode(this);
 		recvIntent();
 		Util.updateIconBadgeCount(mActivity, 1);
