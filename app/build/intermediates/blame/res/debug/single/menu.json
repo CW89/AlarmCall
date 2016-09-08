@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/res/merged/debug/menu/getgeo.xml",
+        "source": "/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/src/main/res/menu/getgeo.xml"
+    }
+]
