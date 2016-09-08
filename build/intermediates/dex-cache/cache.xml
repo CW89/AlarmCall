@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_7221e0d273b2cc0fa252aa55b631880480e82311/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.0_96b15a139674917912afdd9b1b8ee08071597abf/classes.dex" />
+    </item>
+    <item
+        jar="/ANDROID/android-sdk-mac/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.0_5e4b9fed52083eee9defa0605c2093c402f42d29/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_490d4be842da77a10725601f7cfacdf26fa09eec/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_98d2b9ce2d247f3b6946837328f1adce97ef4465/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.0_2814378ce7b434e91e65d89d0f074db3a629c85a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c9b004269a1203d402982c6d4e9b6d05d7f09802">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1bfd9b45c6fce39cd7f85f88b01d08a89e940ab/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.0_88e14e0581ca11f468c2e5797c651fdc453b77e1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.0_1a065209c47a775dbaf46677a0ed9a5a8bf93f79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c529a2f3b818c3ad301543bba0a235cf19d86f04">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_368bdb81336b81f209061b960bfe38f1934dc59b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_f4c534b49683d2cc96404987d0c04d66e3f48bbf/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.0_149bc0f5b62053a03b3f4299d079db99c96c4a2d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.1.71/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-6.1.71_c41c1f9214435fff099ae81f7dbe2ee2f70a1c05/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.0_b465f3d2f95b159b90186b1be44434a75bcc8748/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.0_ecd9f1c285c483da2b6e7b83ab40d884c572c30f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.0_67a833b2fc1cf9edec74e74035d101bbec199d7f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.0_b27d0bcd994ba067fb6d4cf50637f3f9b796a981/classes.dex" />
+    </item>
+    <item
+        jar="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/chang-wan/Documents/StudioProjects/AlarmCall/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.0_37e8a2a3a0d1f9ab3a778516db9e597fa1bc05c6/classes.dex" />
+    </item>
+
+</items>
