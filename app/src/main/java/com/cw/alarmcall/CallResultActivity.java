@@ -1,10 +1,5 @@
 package com.cw.alarmcall;
 
-import java.util.Timer;
-import java.util.TimerTask;
-
-import org.json.JSONException;
-
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
@@ -21,6 +16,11 @@ import android.util.Log;
 import android.view.Window;
 import android.view.WindowManager;
 
+import org.json.JSONException;
+
+import java.util.Timer;
+import java.util.TimerTask;
+
 public class CallResultActivity extends Activity {
 
 	public static String TAG = CallResultActivity.class.getSimpleName();
@@ -36,6 +36,9 @@ public class CallResultActivity extends Activity {
 		mActivity = this;
 
 		settingActivity();
+
+
+
 
 		getRingerMode(this);
 		recvIntent();
